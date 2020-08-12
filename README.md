@@ -1,5 +1,9 @@
-### Hi there 👋
+# Chris Owens
 
+## Contact
+Email:    <span style="margin-left: 50px;">cowensdev@gmail.com</span> <br>
+LinkedIn: <a href="https://www.linkedin.com/in/christopher-owens-dev/"> linkedin.com/in/christopher-owens-dev</a> <br>
+Twitter:  <a href="https://twitter.com/chrisowensdev">@chrisowensdev</a>
 <!--
 **chrisowensdev/chrisowensdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
