@@ -1,7 +1,7 @@
 # Chris Owens
 
 ## Portfolio
-<a href="https://chrisowensdev.com">chrisowensdev.com</a>
+<a href="https://chrisowensdev.com" target="_blank">chrisowensdev.com</a>
 
 ## Contact
 Email:    <span style="margin-left: 50px;">cowensdev@gmail.com</span> <br>
