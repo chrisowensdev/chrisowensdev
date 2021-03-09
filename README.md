@@ -10,11 +10,11 @@ Twitter:  <a href="https://twitter.com/chrisowensdev">@chrisowensdev</a>
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/chrisowensdev/chrisowensdev">
+<a href="https://github.com/chrisowensdev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisowensdev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/chrisowensdev/chrisowensdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisowensdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/chrisowensdev/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisowensdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chris's GitHub Stats" />
 </a>
 
 <a href="https://github.com/chrisowensdev/shopping-list-co">
